@@ -28,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-gawande&show_icons=true&locale=en" alt="vedant-gawande" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-gawande&" alt="vedant-gawande" /></p>
+
 [![@vedantgawande's Holopin board](https://holopin.me/vedantgawande)](https://holopin.io/@vedantgawande)
