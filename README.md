@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedantgawande09" target="blank"><img src="https://img.shields.io/twitter/follow/vedantgawande09?logo=twitter&style=for-the-badge" alt="vedantgawande09" /></a> </p>
 
-- 🌱 I’m currently learning **FastAPI**
+<!-- - 🌱 I’m currently learning **FastAPI** -->
 
 - 📫 How to reach me **programmer.vedant@gmail.com**
 
